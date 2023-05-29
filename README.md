@@ -6,18 +6,15 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Contents
 - [SQL](#SQL)
 - [Tableau](#Tableau)
-- Certificate
-- Contacts
+- [Certificate](#Certificate)
+- [Contacts](#Contact)
 
-# SQL
+## SQL
 1. Covid
 2. Cleaning Data
 
-# Tableau
+## Tableau
 
-# Certificate
+## Certificate
 
-# Contact
-
-
-
+## Contact

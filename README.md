@@ -1,6 +1,8 @@
 Hello World!
-Welcome to my GitHub profile!
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress.q
+
+Welcome to my GitHub portfolio repository!
+
+This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress.
 ***
 
 ## Table of Contents

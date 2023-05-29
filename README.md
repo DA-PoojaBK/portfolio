@@ -6,10 +6,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 ***
 
 ## Table of Contents
+- [Portfolio Projects](#portfolio-projects)
 - [SQL](#SQL)
 - [Tableau](#Tableau)
 - [Certificate](#Certificate)
 - [Contacts](#Contact)
+
+## Portfolio Projects
 
 ## SQL
 1. Covid

@@ -15,8 +15,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Portfolio Projects
 
 ## SQL
-1. Covid
-2. Cleaning Data
+- Covid
+- Cleaning Data
 
 ## Tableau
 

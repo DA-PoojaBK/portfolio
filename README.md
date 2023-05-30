@@ -14,5 +14,5 @@ This repository serves to showcase my skills and as a platform to share my proje
 - [Nashville Housing](https://github.com/poojabk9/SQL/blob/main/Nashville%20Housing.sql)
 
 ## Tableau
-
+- [Tableau Public](https://public.tableau.com/app/profile/pooja8022?authMode=activationSuccess)
 

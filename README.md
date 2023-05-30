@@ -6,13 +6,8 @@ This repository serves to showcase my skills and as a platform to share my proje
 ***
 
 ## Table of Contents
-- [Portfolio Projects](#portfolio-projects)
 - [SQL](#SQL)
 - [Tableau](#Tableau)
-- [Certificate](#Certificate)
-- [Contacts](#Contact)
-
-## Portfolio Projects
 
 ## SQL
 - [Covid-19 Data Exploration](https://github.com/poojabk9/SQL/blob/main/covid_19_data_exploration)
